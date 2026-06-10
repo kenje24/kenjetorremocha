@@ -24,38 +24,11 @@
 
 <img width="100%" alt="Sleek gradient divider" src="./assets/sleek-divider.svg" />
 
-## Engineering intelligent platforms with business gravity.
+<div align="center">
 
-I build scalable web applications, backend systems, ERP platforms, AI-powered products, and data-driven software for real operational needs. My work sits at the intersection of clean architecture, product thinking, and practical innovation: systems that are reliable enough for business, flexible enough for growth, and focused enough to solve the right problem.
+<img width="100%" src="./assets/about-terminal.svg" alt="Terminal style profile summary for Kenje G. Torremocha" />
 
-As a fullstack developer, AI researcher, and software engineer, I care about the full path from concept to production: domain modeling, infrastructure decisions, API design, database performance, automation, maintainability, and the team practices that make software better over time.
-
-<br />
-
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <strong>ERP Systems</strong>
-      <br />
-      <sub>Operational platforms for business workflows</sub>
-    </td>
-    <td width="25%" align="center">
-      <strong>Property Platforms</strong>
-      <br />
-      <sub>Management systems for real estate operations</sub>
-    </td>
-    <td width="25%" align="center">
-      <strong>AI Applications</strong>
-      <br />
-      <sub>Applied intelligence for useful automation</sub>
-    </td>
-    <td width="25%" align="center">
-      <strong>Cloud Systems</strong>
-      <br />
-      <sub>Infrastructure for performance and scale</sub>
-    </td>
-  </tr>
-</table>
+</div>
 
 <br />
 

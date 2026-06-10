@@ -1,0 +1,102 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shell" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060914"/>
+      <stop offset="0.52" stop-color="#0C1020"/>
+      <stop offset="1" stop-color="#090B14"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="140" y1="52" x2="1060" y2="378" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="0.48" stop-color="#A78BFA" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="chipA" x1="0" y1="0" x2="160" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="chipB" x1="0" y1="0" x2="210" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="chipC" x1="0" y1="0" x2="160" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="chipD" x1="0" y1="0" x2="165" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10B981"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="glow" x="80" y="0" width="1040" height="430" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <style>
+      @keyframes scan {
+        0% { transform: translateX(-560px); opacity: 0; }
+        18% { opacity: .8; }
+        100% { transform: translateX(940px); opacity: 0; }
+      }
+      @keyframes typeIn {
+        from { opacity: 0; transform: translateY(8px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes blink {
+        0%, 45% { opacity: 1; }
+        46%, 100% { opacity: 0; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: .55; }
+        50% { opacity: 1; }
+      }
+      .scan { animation: scan 6s ease-in-out infinite; }
+      .line1 { animation: typeIn .55s ease-out .1s both; }
+      .line2 { animation: typeIn .55s ease-out .35s both; }
+      .line3 { animation: typeIn .55s ease-out .6s both; }
+      .line4 { animation: typeIn .55s ease-out .85s both; }
+      .chip { animation: typeIn .55s ease-out 1.15s both; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      .pulse { animation: pulse 2.6s ease-in-out infinite; }
+      .mono { font-family: "SF Mono", "Cascadia Code", Consolas, monospace; }
+      .ui { font-family: Inter, "SF Pro Text", Segoe UI, Arial, sans-serif; }
+      @media (prefers-reduced-motion: reduce) {
+        .scan, .line1, .line2, .line3, .line4, .chip, .cursor, .pulse { animation: none; opacity: 1; transform: none; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="430" rx="28" fill="url(#shell)"/>
+  <path d="M148 58H1052C1076.3 58 1096 77.7 1096 102V328C1096 352.3 1076.3 372 1052 372H148C123.7 372 104 352.3 104 328V102C104 77.7 123.7 58 148 58Z" stroke="url(#edge)" stroke-width="1.3"/>
+  <path d="M148 58H1052C1076.3 58 1096 77.7 1096 102V328C1096 352.3 1076.3 372 1052 372H148C123.7 372 104 352.3 104 328V102C104 77.7 123.7 58 148 58Z" stroke="url(#edge)" stroke-width="3" stroke-opacity=".2" filter="url(#glow)"/>
+  <rect x="105" y="59" width="990" height="58" rx="27" fill="#0D1220"/>
+  <circle cx="148" cy="88" r="7" fill="#FF5F57"/>
+  <circle cx="173" cy="88" r="7" fill="#FFBD2E"/>
+  <circle cx="198" cy="88" r="7" fill="#28C840"/>
+  <text x="600" y="94" text-anchor="middle" class="ui" fill="#A1A1AA" font-size="14" font-weight="600">kenje24 / operating-system</text>
+
+  <g class="scan">
+    <rect x="184" y="116" width="270" height="256" fill="#38BDF8" fill-opacity=".045"/>
+  </g>
+
+  <text x="150" y="162" class="mono line1" fill="#38BDF8" font-size="18" font-weight="700">$ kenje.profile --summary</text>
+  <text x="150" y="202" class="mono line2" fill="#F5F5F7" font-size="24" font-weight="700">Engineering intelligent systems for real-world impact.</text>
+  <text x="150" y="244" class="mono line3" fill="#A1A1AA" font-size="17">Architecture / Automation / AI / Data / Product-minded delivery</text>
+  <text x="150" y="284" class="mono line4" fill="#22D3EE" font-size="18">status: shipping practical software from idea to production</text>
+  <rect x="695" y="268" width="10" height="22" class="cursor" fill="#F472B6"/>
+
+  <g class="chip">
+    <rect x="150" y="316" width="138" height="36" rx="9" fill="url(#chipA)"/>
+    <text x="219" y="339" text-anchor="middle" class="ui" fill="white" font-size="13" font-weight="800">ERP SYSTEMS</text>
+
+    <rect x="304" y="316" width="200" height="36" rx="9" fill="url(#chipB)"/>
+    <text x="404" y="339" text-anchor="middle" class="ui" fill="white" font-size="13" font-weight="800">PROPERTY PLATFORMS</text>
+
+    <rect x="520" y="316" width="160" height="36" rx="9" fill="url(#chipC)"/>
+    <text x="600" y="339" text-anchor="middle" class="ui" fill="white" font-size="13" font-weight="800">AI APPLICATIONS</text>
+
+    <rect x="696" y="316" width="174" height="36" rx="9" fill="url(#chipD)"/>
+    <text x="783" y="339" text-anchor="middle" class="ui" fill="#03111A" font-size="13" font-weight="900">CLOUD SYSTEMS</text>
+  </g>
+
+  <circle class="pulse" cx="996" cy="162" r="58" fill="#7C3AED" fill-opacity=".12"/>
+  <circle class="pulse" cx="996" cy="162" r="26" fill="#38BDF8" fill-opacity=".14"/>
+  <path d="M934 219C974 190 1016 187 1062 214" stroke="#A78BFA" stroke-opacity=".42"/>
+</svg>
