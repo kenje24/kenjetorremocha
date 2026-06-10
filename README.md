@@ -10,8 +10,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/South%20Cotabato-Philippines-111111?style=flat-square&amp;labelColor=000000&amp;color=2f2f2f" alt="South Cotabato, Philippines" />
-  <img src="https://img.shields.io/badge/Backend%20Engineering-Systems%20%26%20Scale-111111?style=flat-square&amp;labelColor=000000&amp;color=2f2f2f" alt="Backend Engineering" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Data-Practical%20Innovation-111111?style=flat-square&amp;labelColor=000000&amp;color=2f2f2f" alt="AI and Data" />
+  <img src="https://img.shields.io/badge/Fullstack%20Engineering-Systems%20%26%20Scale-111111?style=flat-square&amp;labelColor=000000&amp;color=2f2f2f" alt="Fullstack Engineering" />
+  <img src="https://img.shields.io/badge/AI%20Research-Practical%20Innovation-111111?style=flat-square&amp;labelColor=000000&amp;color=2f2f2f" alt="AI Research" />
 </p>
 
 </div>
@@ -24,7 +24,7 @@
 
 I build scalable web applications, backend systems, ERP platforms, AI-powered products, and data-driven software for real operational needs. My work sits at the intersection of clean architecture, product thinking, and practical innovation: systems that are reliable enough for business, flexible enough for growth, and focused enough to solve the right problem.
 
-As a backend developer and developer lead, I care about the full path from concept to production: domain modeling, infrastructure decisions, API design, database performance, automation, maintainability, and the team practices that make software better over time.
+As a fullstack developer, AI researcher, and software engineer, I care about the full path from concept to production: domain modeling, infrastructure decisions, API design, database performance, automation, maintainability, and the team practices that make software better over time.
 
 <br />
 
@@ -61,11 +61,7 @@ As a backend developer and developer lead, I care about the full path from conce
 
 <div align="center">
 
-| Platform Engineering | Intelligent Software | Infrastructure |
-| --- | --- | --- |
-| ERP Systems | AI Applications | Cloud Infrastructure |
-| Property Management Platforms | Data-Driven Products | Backend Engineering |
-| Business Process Automation | Machine Learning Workflows | Deployment Reliability |
+<img width="100%" src="./assets/current-focus.svg" alt="Currently building and learning: AI agents, autonomous systems, LLMs, transformer architectures, chatbots, and conversational AI" />
 
 </div>
 
@@ -75,77 +71,54 @@ As a backend developer and developer lead, I care about the full path from conce
 
 <table>
   <tr>
-    <td width="20%" valign="top">
+    <td width="20%" align="center" valign="top">
       <strong>Backend</strong>
       <br /><br />
-      <code>Node.js</code><br />
-      <code>Express</code><br />
-      <code>NestJS</code><br />
-      <code>PHP</code><br />
-      <code>Laravel</code>
+      <img height="42" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" alt="Node.js" title="Node.js" />
+      <img height="42" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express" title="Express" />
+      <img height="42" src="https://cdn.simpleicons.org/nestjs/FFFFFF" alt="NestJS" title="NestJS" />
+      <img height="42" src="https://cdn.simpleicons.org/php/FFFFFF" alt="PHP" title="PHP" />
+      <img height="42" src="https://cdn.simpleicons.org/laravel/FFFFFF" alt="Laravel" title="Laravel" />
+      <br /><br />
+      <sub>Node.js / Express / NestJS / PHP / Laravel</sub>
     </td>
-    <td width="20%" valign="top">
+    <td width="20%" align="center" valign="top">
       <strong>Frontend</strong>
       <br /><br />
-      <code>React</code><br />
-      <code>Next.js</code><br />
-      <code>TypeScript</code>
+      <img height="42" src="https://cdn.simpleicons.org/react/FFFFFF" alt="React" title="React" />
+      <img height="42" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" title="Next.js" />
+      <img height="42" src="https://cdn.simpleicons.org/typescript/FFFFFF" alt="TypeScript" title="TypeScript" />
+      <br /><br />
+      <sub>React / Next.js / TypeScript</sub>
     </td>
-    <td width="20%" valign="top">
+    <td width="20%" align="center" valign="top">
       <strong>Database</strong>
       <br /><br />
-      <code>MySQL</code><br />
-      <code>PostgreSQL</code><br />
-      <code>MongoDB</code>
+      <img height="42" src="https://cdn.simpleicons.org/mysql/FFFFFF" alt="MySQL" title="MySQL" />
+      <img height="42" src="https://cdn.simpleicons.org/postgresql/FFFFFF" alt="PostgreSQL" title="PostgreSQL" />
+      <img height="42" src="https://cdn.simpleicons.org/mongodb/FFFFFF" alt="MongoDB" title="MongoDB" />
+      <br /><br />
+      <sub>MySQL / PostgreSQL / MongoDB</sub>
     </td>
-    <td width="20%" valign="top">
+    <td width="20%" align="center" valign="top">
       <strong>AI &amp; Data</strong>
       <br /><br />
-      <code>Python</code><br />
-      <code>TensorFlow</code><br />
-      <code>PyTorch</code><br />
-      <code>Machine Learning</code>
+      <img height="42" src="https://cdn.simpleicons.org/python/FFFFFF" alt="Python" title="Python" />
+      <img height="42" src="https://cdn.simpleicons.org/tensorflow/FFFFFF" alt="TensorFlow" title="TensorFlow" />
+      <img height="42" src="https://cdn.simpleicons.org/pytorch/FFFFFF" alt="PyTorch" title="PyTorch" />
+      <img height="42" src="https://cdn.simpleicons.org/scikitlearn/FFFFFF" alt="Machine Learning" title="Machine Learning" />
+      <br /><br />
+      <sub>Python / TensorFlow / PyTorch / Machine Learning</sub>
     </td>
-    <td width="20%" valign="top">
+    <td width="20%" align="center" valign="top">
       <strong>DevOps</strong>
       <br /><br />
-      <code>Docker</code><br />
-      <code>Linux</code><br />
-      <code>Nginx</code><br />
-      <code>GitHub Actions</code>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<img width="100%" alt="Divider" src="https://capsule-render.vercel.app/api?type=rect&amp;height=1&amp;color=0:111111,50:666666,100:111111" />
-
-## Selected Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Property Management ERP</h3>
-      <p>Enterprise platform for property operations, tenant management, billing workflows, reporting, and role-based business processes.</p>
-      <p><strong>Focus:</strong> ERP architecture, backend services, operational data, workflow automation</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>SanctionTracker</h3>
-      <p>Structured tracking system for sanctions, compliance records, accountability workflows, and administrative visibility.</p>
-      <p><strong>Focus:</strong> secure records, dashboards, audit-friendly backend logic, reporting</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Dengue Prediction System</h3>
-      <p>Data-driven prediction platform designed to support public-health awareness through analytics and machine learning models.</p>
-      <p><strong>Focus:</strong> Python, predictive modeling, data processing, decision support</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI Automation Platform</h3>
-      <p>Applied AI system for automating repetitive business tasks, improving response workflows, and connecting intelligence to action.</p>
-      <p><strong>Focus:</strong> AI integration, process automation, backend orchestration, scalable APIs</p>
+      <img height="42" src="https://cdn.simpleicons.org/docker/FFFFFF" alt="Docker" title="Docker" />
+      <img height="42" src="https://cdn.simpleicons.org/linux/FFFFFF" alt="Linux" title="Linux" />
+      <img height="42" src="https://cdn.simpleicons.org/nginx/FFFFFF" alt="Nginx" title="Nginx" />
+      <img height="42" src="https://cdn.simpleicons.org/githubactions/FFFFFF" alt="GitHub Actions" title="GitHub Actions" />
+      <br /><br />
+      <sub>Docker / Linux / Nginx / GitHub Actions</sub>
     </td>
   </tr>
 </table>
@@ -156,38 +129,15 @@ As a backend developer and developer lead, I care about the full path from conce
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kenjetorremocha&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=d6d6d6&amp;icon_color=ffffff" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjetorremocha&amp;layout=compact&amp;hide_border=true&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=d6d6d6" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kenje24&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=d6d6d6&amp;icon_color=ffffff" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenje24&amp;layout=compact&amp;hide_border=true&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=d6d6d6" alt="Top languages" />
 
 <br />
 <br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kenjetorremocha&amp;bg_color=000000&amp;color=d6d6d6&amp;line=ffffff&amp;point=888888&amp;area=true&amp;area_color=ffffff&amp;hide_border=true" alt="Contribution graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kenje24&amp;bg_color=000000&amp;color=d6d6d6&amp;line=ffffff&amp;point=888888&amp;area=true&amp;area_color=ffffff&amp;hide_border=true" alt="Contribution graph" />
 
 </div>
-
-<br />
-
-<img width="100%" alt="Divider" src="https://capsule-render.vercel.app/api?type=rect&amp;height=1&amp;color=0:111111,50:666666,100:111111" />
-
-## Achievements
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>Engineering Leadership</h3>
-      <p>Guiding development from system design to delivery, with a focus on clarity, maintainability, and execution.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Business-First Systems</h3>
-      <p>Building software around real operational problems, measurable workflows, and practical product value.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Applied AI &amp; Data</h3>
-      <p>Transforming data and automation into tools that help people make better decisions and move faster.</p>
-    </td>
-  </tr>
-</table>
 
 <br />
 
@@ -208,11 +158,11 @@ As a backend developer and developer lead, I care about the full path from conce
 
 <div align="center">
 
-<a href="https://github.com/kenjetorremocha">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-</a>
 <a href="https://www.linkedin.com/in/kenjetorremocha">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/kenje24">
+  <img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" />
 </a>
 <a href="mailto:kenjetorremocha@gmail.com">
   <img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
