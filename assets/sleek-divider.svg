@@ -1,0 +1,16 @@
+<svg width="1200" height="36" viewBox="0 0 1200 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="96" y1="18" x2="1104" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.24" stop-color="#38BDF8" stop-opacity="0.52"/>
+      <stop offset="0.52" stop-color="#A78BFA" stop-opacity="0.86"/>
+      <stop offset="0.78" stop-color="#F472B6" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="0" y="0" width="1200" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+  <path d="M96 18H1104" stroke="url(#line)" stroke-width="1.2"/>
+  <path d="M96 18H1104" stroke="url(#line)" stroke-width="3" stroke-opacity="0.28" filter="url(#glow)"/>
+</svg>

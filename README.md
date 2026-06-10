@@ -12,13 +12,17 @@
   <img src="https://img.shields.io/badge/South%20Cotabato-Philippines-111111?style=flat-square&amp;labelColor=000000&amp;color=2f2f2f" alt="South Cotabato, Philippines" />
   <img src="https://img.shields.io/badge/Fullstack%20Engineering-Systems%20%26%20Scale-111111?style=flat-square&amp;labelColor=000000&amp;color=2f2f2f" alt="Fullstack Engineering" />
   <img src="https://img.shields.io/badge/AI%20Research-Practical%20Innovation-111111?style=flat-square&amp;labelColor=000000&amp;color=2f2f2f" alt="AI Research" />
+  <img src="https://komarev.com/ghpvc/?username=kenje24&amp;style=flat-square&amp;color=7c3aed&amp;label=Profile%20Views" alt="GitHub profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&amp;label=Repositories&amp;query=%24.public_repos&amp;url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkenje24&amp;labelColor=000000&amp;color=2563eb" alt="GitHub repositories" />
+  <img src="https://img.shields.io/github/followers/kenje24?style=flat-square&amp;label=Followers&amp;labelColor=000000&amp;color=06b6d4" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/kenje24?style=flat-square&amp;label=Stars&amp;labelColor=000000&amp;color=f59e0b" alt="GitHub stars" />
 </p>
 
 </div>
 
 <br />
 
-<img width="100%" alt="Divider" src="https://capsule-render.vercel.app/api?type=rect&amp;height=1&amp;color=0:111111,50:ffffff,100:111111" />
+<img width="100%" alt="Sleek gradient divider" src="./assets/sleek-divider.svg" />
 
 ## Engineering intelligent platforms with business gravity.
 
@@ -55,7 +59,7 @@ As a fullstack developer, AI researcher, and software engineer, I care about the
 
 <br />
 
-<img width="100%" alt="Divider" src="https://capsule-render.vercel.app/api?type=rect&amp;height=1&amp;color=0:111111,50:666666,100:111111" />
+<img width="100%" alt="Sleek gradient divider" src="./assets/sleek-divider.svg" />
 
 ## Current Focus
 
@@ -69,59 +73,53 @@ As a fullstack developer, AI researcher, and software engineer, I care about the
 
 ## Technology Stack
 
-<table>
-  <tr>
-    <td width="20%" align="center" valign="top">
-      <strong>Backend</strong>
-      <br /><br />
-      <img height="42" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" alt="Node.js" title="Node.js" />
-      <img height="42" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express" title="Express" />
-      <img height="42" src="https://cdn.simpleicons.org/nestjs/FFFFFF" alt="NestJS" title="NestJS" />
-      <img height="42" src="https://cdn.simpleicons.org/php/FFFFFF" alt="PHP" title="PHP" />
-      <img height="42" src="https://cdn.simpleicons.org/laravel/FFFFFF" alt="Laravel" title="Laravel" />
-      <br /><br />
-      <sub>Node.js / Express / NestJS / PHP / Laravel</sub>
-    </td>
-    <td width="20%" align="center" valign="top">
-      <strong>Frontend</strong>
-      <br /><br />
-      <img height="42" src="https://cdn.simpleicons.org/react/FFFFFF" alt="React" title="React" />
-      <img height="42" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" title="Next.js" />
-      <img height="42" src="https://cdn.simpleicons.org/typescript/FFFFFF" alt="TypeScript" title="TypeScript" />
-      <br /><br />
-      <sub>React / Next.js / TypeScript</sub>
-    </td>
-    <td width="20%" align="center" valign="top">
-      <strong>Database</strong>
-      <br /><br />
-      <img height="42" src="https://cdn.simpleicons.org/mysql/FFFFFF" alt="MySQL" title="MySQL" />
-      <img height="42" src="https://cdn.simpleicons.org/postgresql/FFFFFF" alt="PostgreSQL" title="PostgreSQL" />
-      <img height="42" src="https://cdn.simpleicons.org/mongodb/FFFFFF" alt="MongoDB" title="MongoDB" />
-      <br /><br />
-      <sub>MySQL / PostgreSQL / MongoDB</sub>
-    </td>
-    <td width="20%" align="center" valign="top">
-      <strong>AI &amp; Data</strong>
-      <br /><br />
-      <img height="42" src="https://cdn.simpleicons.org/python/FFFFFF" alt="Python" title="Python" />
-      <img height="42" src="https://cdn.simpleicons.org/tensorflow/FFFFFF" alt="TensorFlow" title="TensorFlow" />
-      <img height="42" src="https://cdn.simpleicons.org/pytorch/FFFFFF" alt="PyTorch" title="PyTorch" />
-      <img height="42" src="https://cdn.simpleicons.org/scikitlearn/FFFFFF" alt="Machine Learning" title="Machine Learning" />
-      <br /><br />
-      <sub>Python / TensorFlow / PyTorch / Machine Learning</sub>
-    </td>
-    <td width="20%" align="center" valign="top">
-      <strong>DevOps</strong>
-      <br /><br />
-      <img height="42" src="https://cdn.simpleicons.org/docker/FFFFFF" alt="Docker" title="Docker" />
-      <img height="42" src="https://cdn.simpleicons.org/linux/FFFFFF" alt="Linux" title="Linux" />
-      <img height="42" src="https://cdn.simpleicons.org/nginx/FFFFFF" alt="Nginx" title="Nginx" />
-      <img height="42" src="https://cdn.simpleicons.org/githubactions/FFFFFF" alt="GitHub Actions" title="GitHub Actions" />
-      <br /><br />
-      <sub>Docker / Linux / Nginx / GitHub Actions</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img width="100%" alt="Sleek gradient divider" src="./assets/sleek-divider.svg" />
+
+<br />
+
+### ⚡ Tech Stack
+
+<br />
+
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,php,python&amp;theme=dark&amp;perline=8" alt="Languages: JavaScript, TypeScript, PHP, Python" />
+
+<br />
+<br />
+
+**🧠 AI &amp; Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&amp;theme=dark&amp;perline=8" alt="AI and machine learning: TensorFlow, PyTorch, Machine Learning" />
+
+<br />
+<br />
+
+**🌐 Web Development**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,react,nextjs&amp;theme=dark&amp;perline=8" alt="Web development: Node.js, Express, NestJS, Laravel, React, Next.js" />
+
+<br />
+<br />
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&amp;theme=dark&amp;perline=8" alt="Databases: MySQL, PostgreSQL, MongoDB" />
+
+<br />
+<br />
+
+**🔧 Tools &amp; Platforms**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git&amp;theme=dark&amp;perline=8" alt="Tools and platforms: Docker, Linux, Nginx, GitHub Actions, Git" />
+
+<br />
+
+<img width="100%" alt="Sleek gradient divider" src="./assets/sleek-divider.svg" />
+
+</div>
 
 <br />
 
@@ -141,6 +139,8 @@ As a fullstack developer, AI researcher, and software engineer, I care about the
 
 <br />
 
+<img width="100%" alt="Sleek gradient divider" src="./assets/sleek-divider.svg" />
+
 ## Philosophy
 
 <div align="center">
@@ -152,7 +152,7 @@ As a fullstack developer, AI researcher, and software engineer, I care about the
 
 <br />
 
-<img width="100%" alt="Divider" src="https://capsule-render.vercel.app/api?type=rect&amp;height=1&amp;color=0:111111,50:666666,100:111111" />
+<img width="100%" alt="Sleek gradient divider" src="./assets/sleek-divider.svg" />
 
 ## Connect
 
@@ -174,6 +174,6 @@ As a fullstack developer, AI researcher, and software engineer, I care about the
 
 <div align="center">
 
-<sub>Designed with restraint. Built with purpose. South Cotabato, Philippines.</sub>
+<img width="100%" src="./assets/footer.svg" alt="Footer for Kenje G. Torremocha" />
 
 </div>
