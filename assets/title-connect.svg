@@ -1,0 +1,17 @@
+<svg width="1200" height="96" viewBox="0 0 1200 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="290" y1="72" x2="910" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="0.65" stop-color="#A78BFA" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .label { font: 800 28px Inter, "SF Pro Display", Segoe UI, Arial, sans-serif; fill: #F5F5F7; }
+      .sub { font: 600 13px Inter, "SF Pro Text", Segoe UI, Arial, sans-serif; fill: #8B92A6; letter-spacing: 2px; }
+    </style>
+  </defs>
+  <text x="600" y="42" text-anchor="middle" class="label">Connect</text>
+  <text x="600" y="62" text-anchor="middle" class="sub">LINKEDIN / FACEBOOK / EMAIL</text>
+  <path d="M290 72H910" stroke="url(#line)" stroke-width="1.5"/>
+</svg>

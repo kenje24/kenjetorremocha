@@ -12,10 +12,10 @@
   <img src="https://img.shields.io/badge/South%20Cotabato-Philippines-111111?style=flat-square&amp;labelColor=000000&amp;color=2f2f2f" alt="South Cotabato, Philippines" />
   <img src="https://img.shields.io/badge/Fullstack%20Engineering-Systems%20%26%20Scale-111111?style=flat-square&amp;labelColor=000000&amp;color=2f2f2f" alt="Fullstack Engineering" />
   <img src="https://img.shields.io/badge/AI%20Research-Practical%20Innovation-111111?style=flat-square&amp;labelColor=000000&amp;color=2f2f2f" alt="AI Research" />
+  <br />
   <img src="https://komarev.com/ghpvc/?username=kenje24&amp;style=flat-square&amp;color=7c3aed&amp;label=Profile%20Views" alt="GitHub profile views" />
   <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&amp;label=Repositories&amp;query=%24.public_repos&amp;url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkenje24&amp;labelColor=000000&amp;color=2563eb" alt="GitHub repositories" />
   <img src="https://img.shields.io/github/followers/kenje24?style=flat-square&amp;label=Followers&amp;labelColor=000000&amp;color=06b6d4" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/kenje24?style=flat-square&amp;label=Stars&amp;labelColor=000000&amp;color=f59e0b" alt="GitHub stars" />
 </p>
 
 </div>
@@ -34,8 +34,6 @@
 
 <img width="100%" alt="Sleek gradient divider" src="./assets/sleek-divider.svg" />
 
-## Current Focus
-
 <div align="center">
 
 <img width="100%" src="./assets/current-focus.svg" alt="Currently building and learning: AI agents, autonomous systems, LLMs, transformer architectures, chatbots, and conversational AI" />
@@ -44,15 +42,13 @@
 
 <br />
 
-## Technology Stack
-
 <div align="center">
 
 <img width="100%" alt="Sleek gradient divider" src="./assets/sleek-divider.svg" />
 
 <br />
 
-### ⚡ Tech Stack
+<img width="100%" src="./assets/title-tech-stack.svg" alt="Tech Stack" />
 
 <br />
 
@@ -96,9 +92,9 @@
 
 <br />
 
-## GitHub Signal
-
 <div align="center">
+
+<img width="100%" src="./assets/title-github-signal.svg" alt="GitHub Signal" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=kenje24&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=d6d6d6&amp;icon_color=ffffff" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenje24&amp;layout=compact&amp;hide_border=true&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=d6d6d6" alt="Top languages" />
@@ -114,12 +110,11 @@
 
 <img width="100%" alt="Sleek gradient divider" src="./assets/sleek-divider.svg" />
 
-## Philosophy
-
 <div align="center">
 
-### Technology should not exist to impress developers.
-### Technology should exist to solve problems.
+<img width="100%" src="./assets/title-philosophy.svg" alt="Philosophy" />
+
+<img width="100%" src="./assets/philosophy-card.svg" alt="Technology should exist to solve problems" />
 
 </div>
 
@@ -127,9 +122,9 @@
 
 <img width="100%" alt="Sleek gradient divider" src="./assets/sleek-divider.svg" />
 
-## Connect
-
 <div align="center">
+
+<img width="100%" src="./assets/title-connect.svg" alt="Connect" />
 
 <a href="https://www.linkedin.com/in/kenjetorremocha">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />

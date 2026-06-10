@@ -1,18 +1,19 @@
 <svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#030303"/>
-      <stop offset="0.48" stop-color="#111111"/>
-      <stop offset="1" stop-color="#2B2B2B"/>
+      <stop offset="0" stop-color="#070A12"/>
+      <stop offset="0.5" stop-color="#0D111C"/>
+      <stop offset="1" stop-color="#070A12"/>
     </linearGradient>
     <linearGradient id="line" x1="190" y1="78" x2="1210" y2="342" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.7"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#A78BFA" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 92) rotate(146.5) scale(520 220)">
-      <stop stop-color="#FFFFFF" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop stop-color="#7C3AED" stop-opacity="0.28"/>
+      <stop offset="0.48" stop-color="#38BDF8" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
     </radialGradient>
     <filter id="soft" x="-80" y="-80" width="1560" height="580" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="22"/>
@@ -42,18 +43,18 @@
   </defs>
 
   <rect width="1400" height="420" rx="34" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1398" height="418" rx="33" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="1" y="1" width="1398" height="418" rx="33" stroke="#A78BFA" stroke-opacity="0.16"/>
   <path d="M0 420L1400 0" stroke="url(#line)" stroke-opacity="0.38"/>
   <path class="draw" d="M203 310C369 169 548 107 741 124C896 138 1029 213 1198 102" stroke="url(#line)" stroke-width="1.4"/>
   <circle class="drift" cx="1088" cy="108" r="190" fill="url(#glow)" filter="url(#soft)"/>
-  <circle cx="228" cy="96" r="3" fill="#FFFFFF" fill-opacity="0.42"/>
-  <circle cx="1174" cy="294" r="3" fill="#FFFFFF" fill-opacity="0.34"/>
-  <circle cx="1042" cy="96" r="5" fill="#FFFFFF" fill-opacity="0.72"/>
-  <circle cx="336" cy="318" r="5" fill="#FFFFFF" fill-opacity="0.24"/>
-  <rect x="1027" y="81" width="120" height="120" rx="30" stroke="#FFFFFF" stroke-opacity="0.12"/>
-  <rect x="1068" y="122" width="120" height="120" rx="30" stroke="#FFFFFF" stroke-opacity="0.08"/>
-  <path d="M224 254H502" stroke="#FFFFFF" stroke-opacity="0.18"/>
-  <path d="M898 166H1176" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <circle cx="228" cy="96" r="3" fill="#38BDF8" fill-opacity="0.72"/>
+  <circle cx="1174" cy="294" r="3" fill="#F472B6" fill-opacity="0.5"/>
+  <circle cx="1042" cy="96" r="5" fill="#A78BFA" fill-opacity="0.82"/>
+  <circle cx="336" cy="318" r="5" fill="#38BDF8" fill-opacity="0.32"/>
+  <rect x="1027" y="81" width="120" height="120" rx="30" stroke="#A78BFA" stroke-opacity="0.18"/>
+  <rect x="1068" y="122" width="120" height="120" rx="30" stroke="#38BDF8" stroke-opacity="0.12"/>
+  <path d="M224 254H502" stroke="#38BDF8" stroke-opacity="0.2"/>
+  <path d="M898 166H1176" stroke="#F472B6" stroke-opacity="0.18"/>
 
   <g class="fade-1">
     <text x="118" y="156" fill="#F5F5F7" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="0">
