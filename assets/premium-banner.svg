@@ -1,0 +1,76 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#030303"/>
+      <stop offset="0.48" stop-color="#111111"/>
+      <stop offset="1" stop-color="#2B2B2B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="190" y1="78" x2="1210" y2="342" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 92) rotate(146.5) scale(520 220)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-80" y="-80" width="1560" height="580" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <style>
+      @keyframes drift {
+        0%, 100% { transform: translate3d(0, 0, 0); opacity: .5; }
+        50% { transform: translate3d(18px, -10px, 0); opacity: .9; }
+      }
+      @keyframes draw {
+        from { stroke-dashoffset: 900; }
+        to { stroke-dashoffset: 0; }
+      }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(14px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .drift { animation: drift 9s ease-in-out infinite; transform-origin: center; }
+      .draw { stroke-dasharray: 900; animation: draw 3.4s ease-out both; }
+      .fade-1 { animation: fadeUp 900ms ease-out both; }
+      .fade-2 { animation: fadeUp 900ms ease-out 160ms both; }
+      .fade-3 { animation: fadeUp 900ms ease-out 320ms both; }
+      @media (prefers-reduced-motion: reduce) {
+        .drift, .draw, .fade-1, .fade-2, .fade-3 { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1400" height="420" rx="34" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1398" height="418" rx="33" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <path d="M0 420L1400 0" stroke="url(#line)" stroke-opacity="0.38"/>
+  <path class="draw" d="M203 310C369 169 548 107 741 124C896 138 1029 213 1198 102" stroke="url(#line)" stroke-width="1.4"/>
+  <circle class="drift" cx="1088" cy="108" r="190" fill="url(#glow)" filter="url(#soft)"/>
+  <circle cx="228" cy="96" r="3" fill="#FFFFFF" fill-opacity="0.42"/>
+  <circle cx="1174" cy="294" r="3" fill="#FFFFFF" fill-opacity="0.34"/>
+  <circle cx="1042" cy="96" r="5" fill="#FFFFFF" fill-opacity="0.72"/>
+  <circle cx="336" cy="318" r="5" fill="#FFFFFF" fill-opacity="0.24"/>
+  <rect x="1027" y="81" width="120" height="120" rx="30" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <rect x="1068" y="122" width="120" height="120" rx="30" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <path d="M224 254H502" stroke="#FFFFFF" stroke-opacity="0.18"/>
+  <path d="M898 166H1176" stroke="#FFFFFF" stroke-opacity="0.14"/>
+
+  <g class="fade-1">
+    <text x="118" y="156" fill="#F5F5F7" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="0">
+      Kenje G. Torremocha
+    </text>
+  </g>
+  <g class="fade-2">
+    <text x="121" y="205" fill="#D6D6D6" font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="0">
+      Backend Developer · Developer Lead · AI &amp; Data Enthusiast
+    </text>
+  </g>
+  <g class="fade-3">
+    <text x="121" y="276" fill="#F5F5F7" font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="0">
+      Building intelligent systems for real-world impact.
+    </text>
+    <text x="121" y="314" fill="#A1A1A6" font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" letter-spacing="0">
+      South Cotabato, Philippines
+    </text>
+  </g>
+</svg>
